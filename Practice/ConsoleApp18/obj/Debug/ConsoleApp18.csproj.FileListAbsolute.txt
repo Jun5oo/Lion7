@@ -1,0 +1,7 @@
+C:\Users\Jun5oo\Desktop\Lion7Project\Lion7\Practice\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\Jun5oo\Desktop\Lion7Project\Lion7\Practice\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\Jun5oo\Desktop\Lion7Project\Lion7\Practice\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\Jun5oo\Desktop\Lion7Project\Lion7\Practice\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\Jun5oo\Desktop\Lion7Project\Lion7\Practice\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\Jun5oo\Desktop\Lion7Project\Lion7\Practice\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\Jun5oo\Desktop\Lion7Project\Lion7\Practice\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
